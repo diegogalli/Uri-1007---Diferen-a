@@ -1,2 +1,2 @@
-# Uri-1007---Diferen-a
-Repositório CSharp iniciante / Uri 1007 - Diferenaa
+# Uri-1007---Diferenca
+Repositório CSharp iniciante / Uri 1007 - Diferenca
